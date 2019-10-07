@@ -1,0 +1,7 @@
+"nrf":"C:\nrfconnect\ncs\nrf"
+"nffs":"C:\nrfconnect\ncs\modules\fs\nffs"
+"segger":"C:\nrfconnect\ncs\modules\debug\segger"
+"mcuboot":"C:\nrfconnect\ncs\mcuboot\zephyr"
+"mcumgr":"C:\nrfconnect\ncs\modules\lib\mcumgr"
+"tinycbor":"C:\nrfconnect\ncs\modules\lib\tinycbor"
+"nrfxlib":"C:\nrfconnect\ncs\nrfxlib"
